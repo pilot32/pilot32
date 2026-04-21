@@ -1,29 +1,153 @@
-# Hi there! 👋 I'm Akshat Ojha
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=100&color=F7DF1E&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Let's+play+a+game...;I'm+Akshat+-+Mobile+Dev;Flutter+%7C+Android+%7C+Firebase" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
-Mobile Developer | Flutter & Android Enthusiast
+<h2 align="center">🎯 Challenge: Beat my high score!</h2>
 
-## 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center">
+  <b>🕹️ Play Connect 4 against me!</b><br/>
+  <i>Click below to make your move</i>
+</p>
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=pilot32&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/pilot32/pilot32/issues/new?title=Connect4+Move:%20[Your+Move]">
+    <img src="https://img.shields.io/badge/-Make_Your_Move-FF0000?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game" />
+  </a>
+</p>
 
-## 🏆 Featured Projects
-- 🌾 [Crop Advisory](https://github.com/pilot32/Crop_Advisory) - Agricultural insights app
-- 🎓 [School App Mobile](https://github.com/pilot32/school_app_mobile) - Academic management platform  
-- ⚡ [Quality Switcher](https://github.com/pilot32/quality_switcher) - YouTube quality extension
+---
 
-## 📫 Contact
-📧 ojhaakshat429@gmail.com
+## 🧑‍💻 About Me
+
+```python
+class AkshatOjha:
+    def __init__(self):
+        self.name = "Akshat Ojha"
+        self.role = "Mobile Developer"
+        self.location = "Bhubaneswar, India 🇮🇳"
+        self.languages = ["Dart", "JavaScript", "Kotlin"]
+        self.frameworks = ["Flutter", "Firebase", "Android SDK"]
+        self.current_focus = "Building apps that impact lives 🌱"
+        
+    def say_hello(self):
+        print("Thanks for visiting! Let's connect!")
+
+
+Here is the pure, unformatted text you can copy directly:
+
+text
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=100&color=F7DF1E&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Let's+play+a+game...;I'm+Akshat+-+Mobile+Dev;Flutter+%7C+Android+%7C+Firebase" alt="Typing SVG" />
+</p>
+
+<h2 align="center">🎯 Challenge: Beat my high score!</h2>
+
+<p align="center">
+  <b>🕹️ Play Connect 4 against me!</b><br/>
+  <i>Click below to make your move</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pilot32/pilot32/issues/new?title=Connect4+Move:%20[Your+Move]">
+    <img src="https://img.shields.io/badge/-Make_Your_Move-FF0000?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+class AkshatOjha:
+    def __init__(self):
+        self.name = "Akshat Ojha"
+        self.role = "Mobile Developer"
+        self.location = "Bhubaneswar, India 🇮🇳"
+        self.languages = ["Dart", "JavaScript", "Kotlin"]
+        self.frameworks = ["Flutter", "Firebase", "Android SDK"]
+        self.current_focus = "Building apps that impact lives 🌱"
+        
+    def say_hello(self):
+        print("Thanks for visiting! Let's connect!")
+        
+me = AkshatOjha()
+me.say_hello()
+🚀 My Arsenal (Tech Stack)
+Weapon
+Power Level
+Usage
+⚡ Flutter	██████████░░ 90%	Daily driver
+🔥 Firebase	█████████░░░ 85%	Backend as a service
+🤖 Android	████████░░░░ 80%	Native development
+🌐 JavaScript	███████░░░░░ 75%	Extensions & web
+📱 Dart	██████████░░ 95%	Primary language
+
+🏆 Achievements Unlocked
+
+Trophies
+
+
+
+🎮 Current Quest Log
+ 🌾 Complete Crop_Advisory v2.0 (Boss Level!)
+ 🎓 Launch School App to production
+ ⚡ Add AI features to Quality Switcher
+ 🏆 Win SIH 2025 (Final Boss)
+ 📚 Master Riverpod state management
+📊 Stats (RPG Style)
+text
+
+╔══════════════════════════════════════╗
+║     📈 AKSHAT'S CHARACTER STATS      ║
+╠══════════════════════════════════════╣
+║  HP (Health Points):    ████████░░ 530 ║
+║  MP (Magic/Code):       ████████░░ 410 ║
+║  EXP (Experience):      █████████░░ 5300 ⭐║
+║  Gold (Stars):          ████████░░░░ ?? ║
+║  Quests Completed:      ████████░░░░ 18 ║
+╚══════════════════════════════════════╝
+
+Stats
+
+
+
+🌟 Featured Weapons (Projects)
+⚔️ Legendary Items
+Item Name
+Rarity
+Damage
+Special Ability
+🌾 Crop_Advisory	Legendary 💎	💥💥💥💥💥	Helps farmers grow better
+🎓 School_App_Mobile	Epic 💜	💥💥💥💥	Education empowerment
+⚡ Quality_Switcher	Rare 💙	💥💥💥	YouTube quality control
+🏆 SIH_Project	Mythic 🌟	💥💥💥💥💥	Hackathon champion
+
+🔍 View Item Details (Click to Expand)
+🌐 Summon Me (Contact)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+👾 Thanks for playing! Game Over? No, Game On! 🎮
+
+
+"In a world full of bugs, be the feature ✨"
+
+
+```
+
+        
+me = AkshatOjha()
+me.say_hello()
