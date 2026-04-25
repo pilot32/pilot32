@@ -70,7 +70,7 @@ me.say_hello()
 
 ## 🌳 Skill Tree — Unlocked Nodes
 
-```
+```text
                         ┌─────────────┐
                         │  DEVELOPER  │
                         │   LEVEL 99  │
