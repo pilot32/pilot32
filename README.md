@@ -11,7 +11,8 @@
 <!-- ========== BADGES ROW ========== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Level-99-gold?style=for-the-badge&logo=gamepad&logoColor=black" />
-  <img src="https://img.shields.io/badge/Class-Mobile_Mage-blueviolet?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Guild-Open_Source-green?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Server-Bhubaneswar🇮🇳-orange?style=for-the-badge" />
 </p>
