@@ -42,7 +42,7 @@ class AkshatOjha:
         self.role = "Mobile Developer"
         self.location = "Bhubaneswar, India 🇮🇳"
         self.languages = ["Dart", "JavaScript", "Kotlin"]
-        self.frameworks = ["Flutter", "Firebase", "Android SDK"]
+        self.frameworks = ["Flutter", "React Native", "Supabase","Firebase","FastAPI","ML"]
         self.current_focus = "Building apps that impact lives 🌱"
         self.fun_fact = "I debug faster at 2AM ☕🌙"
         self.motto = "In a world full of bugs, be the feature ✨"
